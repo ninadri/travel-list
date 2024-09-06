@@ -1,4 +1,4 @@
-# Travel List
+# Travel Packing List
 
 ## User Story
 
