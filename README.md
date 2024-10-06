@@ -26,6 +26,18 @@ THEN the app should remove all items from the list.
 
 ## Mock-Up
 
+When the user opens up page:
+![Screenshot of home page](public/assets/start.png)
+
+When the user adds items:
+![Screenshot of added items](public/assets/travel-items.png)
+
+When the user checks off items:
+![Screenshot of user's checks off items](public/assets/checked-items.png)
+
+When the user deletes checked off items:
+![Screenshot of user's deleted checked off items](public/assets/remaining-items.png)
+
 ---
 
 © Adriana Nino [GitHub Repo](https://github.com/ninadri/travel-list)
